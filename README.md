@@ -6,8 +6,7 @@ Users are directed to a register on opening the website. After the registering, 
 ### Environment Setup Locally
 
 * Install [Django](https://docs.djangoproject.com/en/3.2/topics/install/)
-* Install all the required pacakges mentioned in the [req.txt] 
-  (https://github.com/BUNNY-1269/Doc_Sharings/blob/main/req.txt) using the command `pip
+* Install all the required pacakges mentioned in the [req.txt](https://github.com/demongod11/File-Sharing-Portal/blob/main/req.txt) using the command `pip
   install -r req.txt`
 * Run the server and Connect the port to localhost:8000
 
@@ -28,6 +27,10 @@ Users are directed to a register on opening the website. After the registering, 
 * User can keep their files private or public.
 * Users can also keep the files and floders they are intreseted as favorites for easier access.
 
+### Landing Page
+![landing](https://user-images.githubusercontent.com/83218497/177507477-f190bc0c-d741-420f-8ffe-436644450004.png)
+
+
 ### Register Page
 * The user has to register when he uses the website for the first time.He can register with any of his   Email ID.
 
@@ -41,27 +44,24 @@ Users are directed to a register on opening the website. After the registering, 
 ### Home Page
 * After login the home page is displayed, where user can see his favorite files and folders.
 
- ![image](https://user-images.githubusercontent.com/58564940/126110435-4e767fda-b44c-4a69-ba57-7a5d224f68fe.png)
+![home](https://user-images.githubusercontent.com/83218497/177513472-927084c5-72fc-496e-b64e-8dc2ddf8a4a7.png)
 
- ### My Files Page
- * In the side navigation bar we can see 'My files', where user can the files and folders uploaded by him.
- 
- ![image](https://user-images.githubusercontent.com/58564940/126111027-6e433e69-582b-48aa-8c55-83b142997256.png)
- 
- ### All Users Page
- * In the side navigation bar we can see 'All users,' where user can see the profiles of other users, using the website.
- 
- ![image](https://user-images.githubusercontent.com/58564940/126111500-78aa9b4b-c137-4945-8199-716a4b6a418e.png)
+### My Files Page
+* In the side navigation bar we can see 'My files', where user can the files and folders uploaded by him.
+
+![my_files](https://user-images.githubusercontent.com/83218497/177513521-adb4b74b-cb30-4fe7-b08e-3978b21c5b52.png)
+
+### All Users Page
+* In the side navigation bar we can see 'All users,' where user can see the profiles of other users, using the website.
+
+ ![users](https://user-images.githubusercontent.com/83218497/177513693-b9c21c72-0750-4c50-938a-9b5552189469.png)
 
 ### Other Users Files
 * In the above page 'All users' clicking on each user we can get the files and folders uploaded by the respective user.
 
-![image](https://user-images.githubusercontent.com/58564940/126111901-f37b58e7-1bb5-4e24-990f-e71e7ebcdbeb.png)
+![other](https://user-images.githubusercontent.com/83218497/177514091-990fc1d7-471e-46e9-803f-455a0338aa8c.png)
 
 ### My Profile Page
 * In the side navigation bar we can see 'My Profile Page', where user can see his profile.
 
-![image](https://user-images.githubusercontent.com/58564940/126110200-be22b3e4-ebde-45dd-8c66-a27a29d5f875.png)
-
-
-
+![profile](https://user-images.githubusercontent.com/83218497/177513622-bae24a3f-0452-4e03-875c-15d901559334.png)
